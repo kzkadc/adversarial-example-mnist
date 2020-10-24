@@ -1,7 +1,7 @@
 # Adversarial example on MNIST
 Training MNIST classification model and generating adversarial example.
 
-Szegedy, Christian, et al. "Intriguing properties of neural networks." arXiv preprint arXiv:1312.6199 (2013).
+[Szegedy, Christian, et al. "Intriguing properties of neural networks." arXiv preprint arXiv:1312.6199 (2013).](https://arxiv.org/abs/1312.6199)
 
 ## Requirements
 PyTorch, PyTorch-Ignite, OpenCV, Matplotlib
